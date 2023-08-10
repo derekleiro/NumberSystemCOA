@@ -7,7 +7,7 @@ public class NumberSystem extends JFrame {
     ArrayList<Integer> data = new ArrayList<Integer>(22);
 
     public NumberSystem(){
-        super("Assignment 1 COA");
+        super("Assignment 2 COA");
 
         for(int i = 0; i < 18; i++){
             data.add(i);
